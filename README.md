@@ -1,4 +1,4 @@
-📌 Overview
+📌 Overview:
 This project demonstrates the implementation of a Smart Security System for a warehouse (godown) using IoT devices and Cisco Packet Tracer. By simulating real-time surveillance, controlled access, and automation, this model showcases how warehouses can be safeguarded against unauthorized access and threats using networked smart systems.
 
 🛠️ Tools & Technologies Used
